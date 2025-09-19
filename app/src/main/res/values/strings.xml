@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TSDMH252_HAEAP1E2</string>
+    <string name="P1titulo" >Ingreso de datos</string>
+    <string name="P1lsolnombre" >Ingrese su Nombre</string>
+    <string name="hsolnombre" >Aqui tu nombre</string>
+    <string name="blsaludar" >Saludar</string>
+    <string name="p1titulo2" >Suma de 2 numeros</string>
+    <string name="lnum1" >Ingresa el primer numero</string>
+    <string name="lnum2" >Ingresa el segundo numero</string>
+    <string name="hlnum1" >Aqui el primer numero</string>
+    <string name="hlnum2" >Aqui el segundo numero</string>
+    <string name="blsumar">Suma numeros</string>
+</resources>
